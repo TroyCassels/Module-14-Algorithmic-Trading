@@ -38,7 +38,15 @@ SMA values: short window = 10, long window = 150
 
 <img width="575" alt="Screenshot 2023-03-28 at 1 32 51 pm" src="https://user-images.githubusercontent.com/119761709/228112380-1f219266-9638-4397-ba08-2da034c34e21.png">
 
-## Conclusion 
+## Conclusion for SVM
+
+Adjusting the length of the training window from 3 to 6 months provides the biggest increase in the strategy.
+
+<img width="575" alt="Screenshot 2023-03-28 at 1 29 57 pm" src="https://user-images.githubusercontent.com/119761709/228113081-bdc2abec-db9c-4fe9-a2af-2aca6d49aa5f.png">
+
+## Alternative model - Adaboost
+
+<img width="575" alt="Screenshot 2023-03-28 at 1 42 06 pm" src="https://user-images.githubusercontent.com/119761709/228113590-93512c93-aa76-414b-8ec4-696e67f114ad.png">
 
 
 
