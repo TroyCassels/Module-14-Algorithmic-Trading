@@ -12,4 +12,7 @@ Components of this analysis:
 
 - Evaluation of a New Machine Learning classifier
 
-## Baseline Analysis
+## Baseline Case
+
+<img width="575" alt="Screenshot 2023-03-28 at 1 19 59 pm" src="https://user-images.githubusercontent.com/119761709/228110406-6a2f5fc3-c28f-4879-b093-6efc600fc3fd.png">
+
