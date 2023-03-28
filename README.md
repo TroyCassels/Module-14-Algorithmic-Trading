@@ -38,7 +38,7 @@ Training length: 3 Months
 
 SMA values: short window = 10, long window = 150
 
-Changing the length of the SMAs did made performance worse.
+Changing the length of the SMAs made performance worse.
 
 <img width="575" alt="Screenshot 2023-03-28 at 1 32 51 pm" src="https://user-images.githubusercontent.com/119761709/228112380-1f219266-9638-4397-ba08-2da034c34e21.png">
 
